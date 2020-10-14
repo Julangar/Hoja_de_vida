@@ -1,0 +1,12 @@
+body {
+    font-size: 1.5em;
+}
+
+h1 {
+    color: red;
+    font-style: oblique;
+}
+
+li{
+    font-style: italic;
+}
